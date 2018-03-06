@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{948F7424-F977-42E9-8D7D-C1FD0518C8FD}</ProjectGuid>
+    <ProjectGuid>{351C38F0-650F-40E6-A8A6-1D0F975329AC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_1SA_2SE_Stojanov_Robert</RootNamespace>
